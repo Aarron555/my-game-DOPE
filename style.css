@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+canvas {
+  background-color: #2a2a2a;
+  border: 2px solid #444;
+  display: block;
+}
